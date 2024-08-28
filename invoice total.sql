@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+FROM invoices 
+WHERE total BETWEEN 5 AND 15;
