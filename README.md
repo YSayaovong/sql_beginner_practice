@@ -1,7 +1,3 @@
-Here's an updated version of your README:
-
----
-
 # SQL Beginner Practice
 
 This repository contains a collection of beginner SQL queries for practice. The queries are designed to explore various aspects of SQL, including filtering, sorting, aggregating, and joining data.
@@ -17,7 +13,3 @@ This repository contains a collection of beginner SQL queries for practice. The 
 7. **Invoices from Brasília, Edmonton, Vancouver**
 8. **Number of Orders by Customer**
 9. **Albums with 12 or More Tracks**
-
----
-
-You can add more details or descriptions for each query if necessary.
